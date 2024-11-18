@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<title>icon-social-facebook (2)-svg</title>
+	<defs>
+		<image  width="30" height="30" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAAXNSR0IB2cksfwAAABJQTFRFAAAAAAAAAAAAAAAAAAAAAAAA4CsZogAAAAZ0Uk5TNqzA5f+qdRHafwAAACNJREFUeJxjZFRkQALvGE0EkPn/GV0YUMAof5Dx0eMLNT71AA6JCu3o9FktAAAAAElFTkSuQmCC"/>
+		<image  width="24" height="24" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAAXNSR0IB2cksfwAAAgpQTFRF////////////////////////AAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////HtpSIwAAAK50Uk5TPGWPmX8rAAAZfXckYqXh//7PXAEl0rRAGkKw+tXI3pQMFGvfbxcv6HIJIIhjBQt41IYGBL5oCiiQzj8IXsySFaiuQ9MPUKA3R6eJDWfGgxICx7IsZLltHaa/NMG9VwdSA4RBosRJIhHtU7OTleZ0T0w7heOeftBf3RDRt7HJYDi4KkSqMhZWxdcbe1S8GIfpRawjenEe2SZbu9aNS+QfYduvTjldtSc69uctRmZNoM8YjQAAAa9JREFUeJxV0lsoQ3EcB/Df12VTHA+zMrdRmm1lzSXCYim35IFcSx48uNRKPHjwRkke5I3ycJLc5oEobYVSWigPC5NNS657mFxyi8JxztmO7Pfwr//38///6/c7BwSAKLiKBaG+EAMxA14lYITkCSrxABcG+IIXEoXgCjImTiR/PDxirhV2LoKMDB4dAnXAvxObxL/jJgGoEHDolXi45l6oBIdZ2KYAMHnAZoVwxVF8mwyceYJAqUZgxwws6rMFtpIEhgjFhxretEg+3U+30x+QIWctogb3Xiq4UC3QP6ByNcCmVGLS6KIQYCKbdswn7/LE5Z9QoGq5rU22a2LrZdOhQC1KYC6qEdg6DgFGW/K2oTGsa3TXS/8AZWoF2KpkHBlxk+K0SYCMRlye3zV/spa1Wnu2/fKvwVx22BruyjLHOXzNcOaMvgRn9ZzZul84QBQ2wnfz3eWP7+dE0HXwEz3gO2b6FKt1e0Xo1bgF0HI9WA8MiCaxa1pugPPRCpP/ftyv7Ja+t8oS/Rw19jg2hVnArW/npD9hZqUevoS303x0llqm5m1STnneCX4dHLL8AoUefJcv+6x2AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<g>
+		<use  href="#img1" x="0" y="0"/>
+		<use id="Calque 1" href="#img2" x="3" y="3"/>
+	</g>
+</svg>
